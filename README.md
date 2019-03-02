@@ -1,2 +1,2 @@
 # Handwritten-digit-recognition-KERAS
-This is my first CNN construction.
+Dataset: THE MNIST DATABASE http://yann.lecun.com/exdb/mnist/
