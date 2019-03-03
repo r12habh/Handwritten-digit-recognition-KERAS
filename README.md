@@ -3,7 +3,7 @@ Dataset: THE MNIST DATABASE of handwritten digits (http://yann.lecun.com/exdb/mn
 
 Library: KERAS (https://keras.io/)
 
-This model achieves **99.5%** accuracy without using the obselete fully connected layers.
+This model achieves **99.5%** accuracy without using the obselete fully connected layers with 35 epochs and 64 batch_size.
 
 10% of the training dataset is used for validation.
 
